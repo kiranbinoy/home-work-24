@@ -1,0 +1,16 @@
+h1{
+    background-color: blue;
+    color: black;
+    text-align: center;  }
+    #hsecondlast{
+        background-color: bisque;
+    }
+    #psecondlast{
+        color: aqua;
+    }
+    .hlast{
+        background-color:yellow
+    }
+    .plast{
+        color: brown;
+    }
